@@ -24,7 +24,6 @@ void displayMenu(int i){
 		cout << "1. Index files and merge them to a final inverted index"<< endl;
 		cout << "2. Search"<< endl;
 		cout << "3. Exit"<<endl;
-		cout << "4. chenzhi demo"<<endl;
 	}
 
 }
